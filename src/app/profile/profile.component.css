@@ -1,0 +1,15 @@
+.row {
+  width: 90%;
+  display: block;
+  margin: auto;
+  margin-top: 40px;
+}
+
+.example-form {
+  width: 100%;
+}
+.date{
+  display: flex;
+  justify-content: center;
+}
+
